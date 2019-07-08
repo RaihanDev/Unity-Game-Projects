@@ -1,2 +1,13 @@
 
 The Panama Canal is an artificial 82 km waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean. The canal cuts across the Isthmus of Panama and is a conduit for maritime trade.
+
+
+In this scenario, you’re outnumbered 1000 to 1. There’s no need to give the Neptunians the upper hand with unexpected memory spikes. Sound familiar? Go ahead and pull up a chair and get up to speed on Object Pooling.
+
+In this Unity tutorial, you’ll learn:
+
+All about object pooling
+How to pool a game object
+How to expand your object pool at runtime if necessary
+How to extend your object pool to accommodate different objects
+By the end of this tutorial, you’ll have a generic script you can readily drop into a new game. Additionally, you’ll understand how to retrofit the same script for an existing game.
